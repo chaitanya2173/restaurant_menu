@@ -1,6 +1,13 @@
 Restaurant Menu Project
 This project creates a digital restaurant menu using HTML, CSS, and JSON. It's designed to be a simple and customizable solution for restaurants to showcase their offerings online.
 
+
+
+![Screenshot (16)](https://github.com/chaitanya2173/restaurant_menu/assets/139032827/db745a52-b188-43a4-bd36-454f8b333974)
+
+
+
+
 Technologies Used
 HTML: The foundation for structuring the content of the menu.
 CSS: Styles the menu for a visually appealing presentation.
